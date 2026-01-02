@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is George and I'm a enthusiastic developer, from Romania</p>
+<p align="left">My name is George and I'm a enthusiastic developer, from Romania.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning everything<br>🎲 Fun fact: there'snt one!</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning everything...<br>🎲 Fun fact: there'snt one!</p>
 
 ###
 
