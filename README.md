@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is George (630r63) and I'm a enthusiastic developer, from Romania.</p>
+<p align="left">My name is 630r63 and I'm a enthusiastic developer, from Romania.</p>
 
 ###
 
